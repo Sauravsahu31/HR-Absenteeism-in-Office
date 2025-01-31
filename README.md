@@ -29,7 +29,7 @@ This project analyzes employee absenteeism data to identify trends, correlations
   <a href="https://archive.ics.uci.edu/dataset/445/absenteeism+at+work" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/Absent.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/18ZUYqY1d54W_tZeOVckg2SnNGr5BM5tD/view?usp=sharing">Link</a>
 
 ## Recommendations
 - Partner with clinics for on-site check-ups.
