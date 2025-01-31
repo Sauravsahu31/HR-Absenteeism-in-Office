@@ -19,8 +19,17 @@ This project analyzes employee absenteeism data to identify trends, correlations
 
 ## Tools Used
 - SQL Server, Power BI, Python.
-- Repository: [GitHub Link](#)
-- Dashboard: [Power BI Link](#)
+
+## Resources
+
+- **Dashboard**: 
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYjU0YTYwMTctYTQyOC00NjE1LWE3MmQtNzI1N2M2YzhjMmJmIiwidCI6IjBjZmNjNzhhLTg2ODEtNGQ2Mi1hYTMxLTY4ZmYxNWFkZTY2MyJ9" target="_blank">Link</a>
+   
+- **Data Source**: 
+  <a href="https://archive.ics.uci.edu/dataset/445/absenteeism+at+work" target="_blank">Link</a>
+  
+- **Tutorial**: 
+  <a href="http://127.0.0.1:5500/uploads/Videos/Absent.mp4" target="_blank">Link</a>
 
 ## Recommendations
 - Partner with clinics for on-site check-ups.
